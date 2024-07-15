@@ -5,6 +5,7 @@ GO
 USE [TaskManagement]
 GO
 
+
 CREATE TABLE Employee (
 EmpId INT IDENTITY(1000,1), 
 EmpName VARCHAR(50),
