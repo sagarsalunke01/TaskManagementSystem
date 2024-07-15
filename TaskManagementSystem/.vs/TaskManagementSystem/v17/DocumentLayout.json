@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.dal\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|solutionrelative:taskmanagementsystem.dal\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.dal\\models\\taskmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|solutionrelative:taskmanagementsystem.dal\\models\\taskmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|d:\\practice\\asp.net core web api\\taskmanagementsystem\\taskmanagementsystem.dal\\tmsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|solutionrelative:taskmanagementsystem.dal\\tmsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.servicelayer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|solutionrelative:taskmanagementsystem.servicelayer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.dal\\models\\taskdetailsbyduedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A802263-9E6F-460B-9DE8-014CC0415C4C}|TaskManagementSystem.DAL\\TaskManagementSystem.DAL.csproj|solutionrelative:taskmanagementsystem.dal\\models\\taskdetailsbyduedate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.servicelayer\\controllers\\empmanagerteamleadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|solutionrelative:taskmanagementsystem.servicelayer\\controllers\\empmanagerteamleadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.servicelayer\\controllers\\companyadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|solutionrelative:taskmanagementsystem.servicelayer\\controllers\\companyadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\taskmanagementsystem.servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2B9069-CD96-497B-A2B8-D32BAB0F6957}|TaskManagementSystem.ServiceLayer\\TaskManagementSystem.ServiceLayer.csproj|solutionrelative:taskmanagementsystem.servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\practice\\asp.net core web api\\taskmanagementsystem\\taskmanagementsystem.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:taskmanagementsystem.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagementContext.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\TaskManagementContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.DAL\\Models\\TaskManagementContext.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\TaskManagementContext.cs",
+              "RelativeToolTip": "TaskManagementSystem.DAL\\Models\\TaskManagementContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:23:24.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDetailsByDueDate.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\TaskDetailsByDueDate.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.DAL\\Models\\TaskDetailsByDueDate.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\TaskDetailsByDueDate.cs",
+              "RelativeToolTip": "TaskManagementSystem.DAL\\Models\\TaskDetailsByDueDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:16:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyAdminController.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\CompanyAdminController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.ServiceLayer\\Controllers\\CompanyAdminController.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\CompanyAdminController.cs",
+              "RelativeToolTip": "TaskManagementSystem.ServiceLayer\\Controllers\\CompanyAdminController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:55:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.ServiceLayer\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "TaskManagementSystem.ServiceLayer\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:54:23.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.DAL\\Models\\Task.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\Models\\Task.cs",
+              "RelativeToolTip": "TaskManagementSystem.DAL\\Models\\Task.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:40:05.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TMSRepository.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\TMSRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.DAL\\TMSRepository.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\TMSRepository.cs",
+              "RelativeToolTip": "TaskManagementSystem.DAL\\TMSRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:24:15.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpManagerTeamLeadController.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\EmpManagerTeamLeadController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.ServiceLayer\\Controllers\\EmpManagerTeamLeadController.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Controllers\\EmpManagerTeamLeadController.cs",
+              "RelativeToolTip": "TaskManagementSystem.ServiceLayer\\Controllers\\EmpManagerTeamLeadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:54:58.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\App.config",
+              "RelativeDocumentMoniker": "TaskManagementSystem.DAL\\App.config",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.DAL\\App.config",
+              "RelativeToolTip": "TaskManagementSystem.DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-15T06:20:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem.ServiceLayer\\Program.cs",
+              "ToolTip": "D:\\Practice\\ASP.Net Core WEB API\\TaskManagementSystem\\TaskManagementSystem.ServiceLayer\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem.ServiceLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:07:05.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagement/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-13T12:38:00.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

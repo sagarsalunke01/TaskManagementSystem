@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i2QT9H4P6xh0lrOzL6irwPd2nvNiK+fa6M64uVKkm4o=",
+  "Source": "TaskManagementSystem.ServiceLayer",
+  "BasePath": "_content/TaskManagementSystem.ServiceLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
